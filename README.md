@@ -1,1 +1,2 @@
-# graph-based-recommender-systems
+# Graph-based Recommendation
+_A gentle introduction to recommender systems working with and on graphs._
