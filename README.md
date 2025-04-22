@@ -21,6 +21,30 @@ The scope of this lecture is to provide the useful background notions regarding 
 - Background notions on graph neural networks
 - Current directions in graph neural networks for recommendation
 
+### My works on graph-based recommendation
+
+**2025**
+- ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning for Static Link Prediction (aka Personalized Item Recommendation). A Ariza-Casabona, N Kanakaris, D Malitesta. arXiv preprint arXiv:2503.16661
+- Advances on Graph-Based Approaches in Information Retrieval. L Boratto, D Malitesta, M Marras, G Medda, C Musto, E Purificato. Communications in Computer and Information Science 2197, 1-98
+
+**2024**
+- A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph. D Malitesta, C Pomo, VW Anelli, ACM Mancino, T Di Noia, E Di Sciascio. The 18th ACM Conference on Recommender Systems (RecSys’24)
+- Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?. D Malitesta, E Rossi, C Pomo, T Di Noia, FD Malliaros. The 33rd ACM International Conference on Information and Knowledge Management (CIKM'24)
+- Uplift Modeling Under Limited Supervision. G Panagopoulos, D Malitesta, FD Malliaros, J Pang. Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD'24)
+- Graph Neural Networks for Recommendation leveraging Multimodal Information. D Malitesta. ACM SIGIR Forum 58 (1)
+- First International Workshop on Graph-Based Approaches in Information Retrieval (IRonGraphs 2024). L Boratto, D Malitesta, M Marras, G Medda, C Musto, E Purificato. The 46th European Conference on Information Retrieval (ECIR'24)
+
+**2023**
+- Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation. D Malitesta, C Pomo, T Di Noia. The 2nd Learning on Graphs Conference (LoG'23)
+- KGTORe: Tailored Recommendations through Knowledge-aware GNN Models. ACM Mancino, A Ferrara, S Bufi, D Malitesta, T Di Noia, E Di Sciascio. The 17th ACM Conference on Recommender Systems (RecSys'23)
+- Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis. VW Anelli, D Malitesta, C Pomo, A Bellogin, E Di Sciascio, T Di Noia. The 17th ACM Conference on Recommender Systems (RecSys'23)
+- An Out-of-the-Box Application for Reproducible Graph Collaborative Filtering extending the Elliot Framework. D Malitesta, C Pomo, VW Anelli, T Di Noia, A Ferrara. The 31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP'23)
+- Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering. VW Anelli, Y Deldjoo, T Di Noia, D Malitesta, V Paparella, C Pomo. The 45th European Conference on Information Retrieval (ECIR'23)
+
+**2022**
+- Reshaping Graph Recommendation with Edge Graph Collaborative Filtering and Customer Reviews. VW Anelli, Y Deldjoo, T Di Noia, A Ferrara, D Malitesta, C Pomo. Workshop on Deep Learning for Search and Recommendation (CIKM'22)
+- How Neighborhood Exploration influences Novelty and Diversity in Graph Collaborative Filtering. VW Anelli, Y Deldjoo, T Di Noia, A Ferrara, D Malitesta, C Pomo. 2nd Workshop on Multi-Objective Recommender Systems (RecSys'22)
+
 ### Other details
 
 **Coming soon**: lecture notes (stay tuned!)  
