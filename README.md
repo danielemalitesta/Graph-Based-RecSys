@@ -15,6 +15,12 @@ Conversely, graph-based recommender systems leverage the user-item graph topolog
 
 The scope of this lecture is to provide the useful background notions regarding traditional recommendation, and the rationales behind the more improved and recent approaches from graph-based recommendation. Then, it presents pioneer solutions in graph-based recommendation leveraging, among others, random-walk techniques and graph neural networks. 
 
+**Contents**
+- The recommendation task and traditional models
+- Graph-based recommendation
+- Background notions on graph neural networks
+- Current directions in graph neural networks for recommendation
+
 **Coming soon**: lecture notes!
 
 **Lecturer**: Daniele Malitesta  
