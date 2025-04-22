@@ -3,7 +3,7 @@ _A gentle introduction to recommender systems working with and on graphs._
 
 Slides for the guest lecture on "Graph-Based Recommendation" as part of the course of "Machine Learning in Network Science" (held at CentraleSupélec and coordinated by Prof. Fragkiskos Malliaros) and at Cognism.com (invited by Felice Merra).
 
-**Abstract**
+### Abstract
 
 Most of today’s data is structured as nodes connected through edges forming graphs, from molecules and drugs to traffic flows and social networks. The same applies to data stored on popular online platforms (e.g., Amazon, Netflix, X, Booking.com) which host vast and heterogenous catalogues of products or services enjoyed daily by different customer segments. 
 
@@ -15,13 +15,14 @@ Conversely, graph-based recommender systems leverage the user-item graph topolog
 
 The scope of this lecture is to provide the useful background notions regarding traditional recommendation, and the rationales behind the more improved and recent approaches from graph-based recommendation. Then, it presents pioneer solutions in graph-based recommendation leveraging, among others, random-walk techniques and graph neural networks. 
 
-**Contents**
+### Contents
 - The recommendation task and traditional models
 - Graph-based recommendation
 - Background notions on graph neural networks
 - Current directions in graph neural networks for recommendation
 
-**Coming soon**: lecture notes!
+### Other details
 
+**Coming soon**: lecture notes (stay tuned!)  
 **Lecturer**: Daniele Malitesta  
 **Email:** daniele.malitesta@centralesupelec.fr
