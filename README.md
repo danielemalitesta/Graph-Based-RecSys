@@ -5,5 +5,5 @@ Slides for the guest lecture on "Graph-Based Recommendation" as part of the cour
 
 **Coming soon**: lecture notes!
 
-**Lecturer**: Daniele Malitesta
+**Lecturer**: Daniele Malitesta  
 **Email:** daniele.malitesta@centralesupelec.fr
