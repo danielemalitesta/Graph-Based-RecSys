@@ -21,8 +21,8 @@ The scope of this lecture is to provide the useful background notions regarding 
 
 ### Previous iterations of the lecture
 
-- Guest lecture as part of the course of "Machine Learning in Network Science" (held at CentraleSupélec and coordinated by Prof. Fragkiskos Malliaros)
-- Invited workshop at Cognism.com (invited by Felice Merra)
+- Guest lecture as part of the course of "Machine Learning in Network Science" held at CentraleSupélec and coordinated by Prof. Fragkiskos Malliaros (April 2025)
+- Invited workshop at Cognism.com, invited by Felice Merra (April 2025)
 
 ### My works on graph-based recommendation
 
